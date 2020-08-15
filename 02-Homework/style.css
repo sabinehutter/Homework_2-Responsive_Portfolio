@@ -72,3 +72,8 @@ section, .contactsection{
     float: left;
     margin-right: 10px;
 }
+.fa{
+    padding:20px;
+    transform: scale(2,2); 
+    color: black;
+}
