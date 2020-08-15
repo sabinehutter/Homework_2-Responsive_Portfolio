@@ -11,7 +11,7 @@
     border-radius: 25px;
     padding: 40px;
     margin: auto;
-    /* height: 500px; */
+    margin-bottom: 20px;
 }
 .bg-light{
     margin-bottom: 40px;
@@ -23,10 +23,11 @@
 .navbar-toggler, .dropdown-item, #navbarDropdownMenuLink, .nav-item, .nav-link{
     font-family: 'Mulish', sans-serif;
 }
-section{
+section, .contactsection{
     background-image: url("backgrounf.jpg"); 
     background-size: cover;
 }
+
 #mainheader{
     padding-left: 10px;
     font-family: 'Baloo Tamma 2', cursive;
@@ -48,9 +49,26 @@ section{
 .card-text{
     font-family: 'Mulish', sans-serif;
 }
-#footer{
-    position:relative;
-bottom:0;
-z-index: 3;
+.sabinebio{
+    font-family: 'Mulish', sans-serif;
+
 }
-.fa { font-family: 'FontAwesome' !important; }
+.sabinebio1{
+    font-family: 'Mulish', sans-serif;
+    font-size: 14px;
+}
+.contactcontent{
+    padding-bottom: 75px;
+}
+.homepagename{
+    font-family: 'Baloo Tamma 2', cursive;
+        border-bottom: .5px solid lightgray;
+}
+.sabinepic{
+    max-width: 40%; 
+    display:block; 
+    height: auto;
+    max-height: 200px;
+    float: left;
+    margin-right: 10px;
+}
