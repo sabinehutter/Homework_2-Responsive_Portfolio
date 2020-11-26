@@ -24,7 +24,7 @@
     font-family: 'Mulish', sans-serif;
 }
 section, .contactsection{
-    background-image: url("backgrounf.jpg"); 
+    background-image: url("/Assets/Images/backgrounf.jpg"); 
     background-size: cover;
 }
 
